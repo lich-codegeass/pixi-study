@@ -12,6 +12,7 @@ npm install
 Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-develop)
 
 ```
+# 启动服务
 npm run develop
 # or
 yarn develop
