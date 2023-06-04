@@ -4,6 +4,7 @@ Strapi comes with a full featured [Command Line Interface](https://docs.strapi.i
 
 ## install
 ```
+# 安装依赖
 npm install
 ```
 ### `develop`
