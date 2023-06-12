@@ -38,6 +38,8 @@ Build your admin panel. [Learn more](https://docs.strapi.io/developer-docs/lates
 npm run build
 # or
 yarn build
+# or 
+pnpm build
 ```
 
 ## ⚙️ Deployment
