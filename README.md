@@ -1,4 +1,4 @@
-# 🚀 pixi-study 
+# 🚀 study 
 
 ## deploy
 
