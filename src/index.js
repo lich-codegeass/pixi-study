@@ -1,6 +1,7 @@
 'use strict';
 
 
+// get starter
 module.exports = {
   /**
    * An asynchronous register function that runs before
